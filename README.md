@@ -18,6 +18,7 @@ Interested in:
 - React
 - JavaScript
 - HTML/CSS
+- .NET
 
 ### Backend
 - Node.js
