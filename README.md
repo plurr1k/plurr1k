@@ -6,7 +6,7 @@ Full-Stack & Chatbot Developer | React • Node.js • C# | Web & Desktop Applic
 
 **Secondary Vocational Education (Programmer Qualification)**
 
-Graduated with a qualification in Software Development. During my studies, I developed desktop and web applications, worked with databases, and completed a graduation project focused on a social network with decentralized media storage using IPFS.
+Graduated with a qualification in Software Development and Information System. During my studies, I developed desktop and web applications, worked with databases, and completed a graduation project focused on a social network with decentralized media storage using IPFS.
 
 ## About Me
 
